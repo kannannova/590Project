@@ -1,0 +1,13 @@
+dataframe-image==0.1.1
+Flask==1.1.2
+gunicorn==19.9.0
+numpy>=1.9.2
+imagesize==1.2.0
+imgkit==1.2.2
+Jinja2==2.11.2
+joblib==1.0.1
+json5==0.9.5
+matplotlib>=1.4.3
+pandas>=0.19
+Werkzeug>=0.15
+requests==2.2.1
